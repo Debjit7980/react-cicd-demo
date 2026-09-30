@@ -10,6 +10,7 @@ function App() {
         <h3>React CI/CD Demo</h3>
         <h4>Published Testing CI/CD pipeline workflow</h4>
         <h2>Feature Branch Developement</h2>
+        <h2>Testing the protected main branch</h2>
         <p className="description">
           This application is being built to learn
           Continuous Integration and Continuous Deployment.
